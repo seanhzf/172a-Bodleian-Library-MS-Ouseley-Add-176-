@@ -1,7 +1,7 @@
 {"type":"FeatureCollection", "features":[
     {"type":"Feature","properties":
       {"id":1,
-      "chapter":"Chapter 1: Introduction",
+      "chapter":"Bodleian Library MS. Ousley Add. 176 fol. 172a",
       "zoom":1,
       "image":"",
       "source-credit":"",
