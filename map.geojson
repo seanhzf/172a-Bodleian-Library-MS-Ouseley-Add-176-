@@ -11,7 +11,7 @@
     {"type":"Feature","properties":
       {"id":2,
       "chapter":"Chapter 2: The Story",
-      "zoom":2,
+      "zoom":1,
       "image":"",
       "source-credit":"",
       "source-link":"",
