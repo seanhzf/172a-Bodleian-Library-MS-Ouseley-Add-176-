@@ -33,7 +33,7 @@
       "image":"",
       "source-credit":"",
       "source-link":"",
-      "description":"\"On the other hand, the bright golden-yellow colour of Rustam’s armour stands out in contrast to his dark surroundings and connotes his bravery and hopefulness. The fact that his armour is the only item in the image that has a bright colour suggests that Rustam remains courageous and hopeful in spite of the danger and grimness that he is surrounded by. It is as if Rustam is the only ray of light in a place of utter darkness. Indeed, the golden-yellow colour of his armour asserts that the value of Rustam’s valour, that he is a worthy warrior, a literal a knight in shining armour. Thus, it seems that the artist is trying to emphasise positive traits of Rustam as a knight by choosing to depict the specific moment in which Rustam, against all odds, remains courageous, fights to stay alive and return to shore. Rustam is unmistakably the hero.\""},
+      "description":"\"The bright golden-yellow colour of Rustam’s armour stands out in contrast to his dark surroundings and connotes his bravery and hopefulness. It suggests that Rustam remains courageous and hopeful in spite of the grim danger that he is surrounded by. It is as if Rustam is the only ray of light in a place of utter darkness. His golden-yellow armour evokes Rustam’s valour and worthiness as a warrior, a literal a knight in shining armour. Thus, it seems that the artist is trying to emphasise positive traits of Rustam as a knight by choosing to depict the specific moment in which Rustam, against all odds, remains courageous, fights to stay alive and return to shore. Rustam is unmistakably the hero.\""},
       "geometry":{"type":"Point","coordinates":[2022,4482]}},
     {"type":"Feature","properties":
       {"id":5,
@@ -60,7 +60,7 @@
       "image":"",
       "source-credit":"",
       "source-link":"",
-      "description":"\"Hopefully, you have realised that the artist has put in a lot of effort to bring the text to life through his illustration and interpretation of the text. The many details in the image allow us to better appreciate the themes of the story and visualise the narrative. For instance, through the image, we glimpse the danger that Rustam is in as he struggles in the dark, vast sea. Nonetheless, his bright armour connotes his heroic determination to reach the shore and his turban helmet connotes his spirituality, so we have the faith that God will watch over him and help him to reach the shore. The presentation of Akwán hiding in the periphery not only gives us a visual representation of how the Div could look like but also makes us aware of his sinister nature. The illustration thus clearly helps to illuminate the text. In the future, when you next flip open a book. take a good look at illustrations – you might be surprised by how much better you can appreciate the story after looking at the images!"},
+      "description":"\"Hopefully, you have realised that the artist has put in a lot of effort to bring the text to life through his illustration and interpretation of the text. The many details in the image allow us to better appreciate the themes of the story and visualise the narrative. For instance, through the image, we glimpse the danger that Rustam is in as he struggles in the dark, vast sea. Nonetheless, his bright armour and his turban helmet connotes his heroic determination and spirituality, so we have the faith that God will watch over him and help him to reach the shore. The presentation of Akwán hiding in the periphery not only shows what the Div could look like but also makes us aware of his sinister nature. The illustration thus clearly helps to illuminate the text. In the future, when you next flip open a book. take a good look at illustrations – you might be surprised by how much better you can appreciate the story after looking at the images!"},
       "geometry":{"type":"Point","coordinates":[0,0]}},
     {"type":"Feature","properties":
       {"id":8,
@@ -78,6 +78,6 @@
       "image":"",
       "source-credit":"",
       "source-link":"",
-      "description":"\"Hoh, Zheng Feng Sean (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). \"Ibrahim Sultan hunting.\" In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022. \""},
+      "description":"\"Hoh, Zheng Feng Sean (Researcher, Scriptwriter, Storyboarder) and Hussein Keshani (Coder). \"Rustam Fights a Sea Monster.\" In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022. \""},
       "geometry":{"type":"Point","coordinates":[4932,7026]}}
 ]}
